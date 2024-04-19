@@ -12,6 +12,7 @@
   * These are still separated out by Zone in case we need to address the issues per-zone. They could be combined for multiple zones if we find this is still too granular for some alerts.
 * These changes would reduce our current tickets from **31** tickets down to **8** clearly prioritized tickets.
 * We can also consider auto-closing tickets when alerts resolve if that makes them no longer actionable (possibly the TransientFailures?)
+* This could be handled within our usual ticketing systems (Jira, Asana, Miro, AirTable)
 
 ### Ticketing system's output with recommended changes:
 ```
