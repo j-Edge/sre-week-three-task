@@ -1,0 +1,15 @@
+Restart Count: 0
+Sleeping
+Restart Count: 1
+Sleeping
+Restart Count: 1
+Sleeping
+Restart Count: 2
+Sleeping
+Restart Count: 3
+Sleeping
+Restart Count: 3
+Sleeping
+Restart Count: 4
+Scaling down
+deployment.apps/swype-app scaled

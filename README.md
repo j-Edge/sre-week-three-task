@@ -1,5 +1,5 @@
 # Task 1
-* See [watcher.sh](https://github.com/j-Edge/sre-week-three-task/blob/main/watcher.sh) for shutdown script.
+* See [watcher.sh](https://github.com/j-Edge/sre-week-three-task/blob/main/watcher.sh) for the shutdown script, and [nohup.out](https://github.com/j-Edge/sre-week-three-task/blob/main/nohup.txt) for the output from the script running on minikube in GitHub CodeSpaces.
 
 
 # Task 2
